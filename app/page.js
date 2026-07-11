@@ -93,7 +93,7 @@ export default function Home() {
             <div className="stat-block">
               <div className="stat">
                 <b>2</b>
-                <span>Emirates active — Sharjah &amp; Abu Dhabi</span>
+                <span>Emirates active — Sharjah, Dubai &amp; Abu Dhabi</span>
               </div>
               <div className="stat">
                 <b>12+</b>
