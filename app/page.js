@@ -18,9 +18,9 @@ const TIERS = [
     id: "tournament",
     coord: "Rook",
     name: "Tournament",
-    price: "AED 145",
+    price: "AED 155",
     unit: "/ tournament",
-    payUrl: `${WHATSAPP}?text=${encodeURIComponent("Hi! I'd like to join the next SHJ.CHESSMATES tournament (AED 145).")}`,
+    payUrl: `${WHATSAPP}?text=${encodeURIComponent("Hi! I'd like to join the next SHJ.CHESSMATES tournament (AED 155).")}`,
     features: [
       "Entry to one tournament",
       "Competitive bracket play",
