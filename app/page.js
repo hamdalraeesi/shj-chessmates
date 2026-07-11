@@ -57,7 +57,7 @@ export default function Home() {
           <p className="sub">
             SHJ.CHESSMATES is a chess community in Sharjah bringing players
             together over recurring tournaments, meetups, and a shared
-            obsession with the game — now expanding to Abu Dhabi.
+            obsession with the game — now expanding to Dubai & Abu Dhabi.
           </p>
           <div className="cta-row">
             <a className="btn solid" href="#membership">
@@ -86,7 +86,7 @@ export default function Home() {
                 titled players share a table.
               </p>
               <p>
-                What began in Sharjah is now finding its footing in Abu Dhabi,
+                What began in Sharjah is now finding its footing in Dubai and Abu Dhabi,
                 one evening at a time.
               </p>
             </div>
@@ -126,9 +126,9 @@ export default function Home() {
               <span className="tag">Past</span>
             </div>
             <div className="event-card">
-              <span className="coord">TBD</span>
-              <h3>theHUT Meetup</h3>
-              <p>Venue partnership in progress — details announced soon.</p>
+              <span className="coord">Jul 18</span>
+              <h3>Sharjah Gathering</h3>
+              <p>Parka Bakehouse, Sharjah · casual chess gathering, open to all levels.</p>
               <span className="tag">Upcoming</span>
             </div>
             <div className="event-card">
