@@ -1,7 +1,11 @@
 import "./globals.css";
 
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+};
+
 export const metadata = {
-  title: "SHJ.CHESSMATES",
   description:
     "SHJ.CHESSMATES is a chess community in Sharjah bringing players together over recurring tournaments, meetups, and a shared obsession with the game.",
 };
